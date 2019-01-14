@@ -1,0 +1,20 @@
+<style>
+
+body 
+ {
+	margin: 1px;
+	border-width: 2px 1px 1px 2px;
+	padding: 10px 5px 4px 10px;
+	background: #f4f4f4;
+
+}
+
+ div {
+   width: 150px;
+   height: 150px;
+   background: lightgrey;
+   border-radius: 5px;
+   transition: width 2s;
+}
+
+ }
