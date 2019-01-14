@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #links{
 	width: 500px;
 	height: 500px;
@@ -38,26 +38,3 @@ float: right;
 padding: 3px
 }
 
-
-=======
-<style>
-
-body 
- {
-	margin: 1px;
-	border-width: 2px 1px 1px 2px;
-	padding: 10px 5px 4px 10px;
-	background: #f4f4f4;
-
-}
-
- div {
-   width: 150px;
-   height: 150px;
-   background: lightgrey;
-   border-radius: 5px;
-   transition: width 2s;
-}
-
- }
->>>>>>> 3c18ff3677c21de9340e6fb0e001d4a6d605a03d
