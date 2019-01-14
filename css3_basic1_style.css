@@ -22,12 +22,19 @@ a:hover{ color: yellow;
 	 width: 100px;
   height: 50px;
   background: red;
-  -webkit-transition: width 2s; 
+  webkit-transition: width 2s; 
   transition: width 2s;
   float: left;
   padding: 3px;
 
 }
+.link1:hover{
+	width: 30px;
+	height: 30px;
+	color: blue;
+
+}
+
 .link2{
 	 width: 100px;
   height: 50px;
@@ -38,7 +45,11 @@ float: left;
 padding: 3px;
 margin-left: 75px
 }
-
+.link2:hover{
+	width: 30px;
+	height: 30px;
+	color: blue;
+}
 
 
 .link3{
@@ -52,5 +63,10 @@ margin-left: 75px
   padding:3px;
   margin-left:400px;
 
-
+}
+.link3:hover{
+	width: 30px;
+	height: 30px;
+	color: blue;
+}
 }
